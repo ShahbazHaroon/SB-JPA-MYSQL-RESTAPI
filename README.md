@@ -4,7 +4,6 @@
 
 <table>
   <tbody>
-
     <tr>
       <th>Acronym</th>
       <th>Description</th>
@@ -24,6 +23,5 @@
       <td>MySQL</td>
       <td>MySQL Server</td>
     </tr>
-
   </tbody>
 </table>
